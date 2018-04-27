@@ -11,6 +11,7 @@
 #   # => 4
 #
 # Returns the biggest number of those given.
+
 def max_of_four(tal1, tal2, tal3, tal4)
     max = tal1
     if max < tal2

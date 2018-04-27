@@ -9,6 +9,7 @@
 #   # => [1,2,3,4]
 #
 # Returns all items in the two arrays together in the first array. 
+
 def concat(array,array2)
     array << array2
     return array

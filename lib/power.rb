@@ -9,6 +9,7 @@
 #   # => 16
 #
 # Returns bas multiplied with it self exponent amount of times.
+
 def power(bas,exponent)
     i = 1
     resultat = bas

@@ -8,6 +8,7 @@
 #   # => false
 #
 # Return true if the String or Array are longer than 0.
+
 def empty(input)
     string = input.to_s
     if string.length != 0

@@ -9,6 +9,7 @@
 #   # => ['Tom',1,2,3,4]
 #
 # Returns the array with the given item placed on index 0.
+
 def prepended(input, array)
     output = []
     output << input

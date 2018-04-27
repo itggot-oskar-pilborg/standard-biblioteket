@@ -8,6 +8,7 @@
 #   # => 3
 #
 # Return the given number - 1
+
 def previous_number(tal)
     return tal - 1
 end

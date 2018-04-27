@@ -10,6 +10,7 @@
 #   # => 1
 #
 # Returns the smallest number of those given.
+
 def min_of_three(tal1, tal2, tal3)
     min = tal1
     if min > tal2

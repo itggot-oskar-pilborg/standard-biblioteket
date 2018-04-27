@@ -8,6 +8,7 @@
 #   # => false
 #
 # Returns true if the given nuber is negative and otherwise false.
+
 def is_negative(tal)
     if tal < 0
         return true

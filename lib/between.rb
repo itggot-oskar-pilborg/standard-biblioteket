@@ -4,7 +4,7 @@ require_relative '../lib/lib.rb'
 #   tal  - The Integer that will be checked.
 #   min - The Integer that is the lower border of the checked area.
 #   max - The Integer that is the higher border of the checked area.
-
+#
 # Examples
 #
 #   between(4,2,8)

@@ -8,6 +8,7 @@
 #   # => 10
 #
 # Returns the sum of all added numbers. 
+
 def sum_to(tal)
     i = 0
     resultat = 0

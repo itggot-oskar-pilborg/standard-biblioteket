@@ -9,6 +9,7 @@
 #   # => 2
 #
 # Returns the biggest number of those given.
+
 def max_of_two(tal1, tal2)
     if tal1 > tal2
         return tal1

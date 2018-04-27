@@ -7,7 +7,8 @@
 #   cube(4)
 #   # => 64
 #
-# Returns the cube of the given Integer
+# Returns the cube of the given Integer.
+
 def cube(tal)
     return tal * tal * tal
 end

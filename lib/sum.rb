@@ -8,6 +8,7 @@
 #   # => 10
 #
 # Returns the sum of all items in the given array. 
+
 def sum(array)
     output = 0
     i = 0
