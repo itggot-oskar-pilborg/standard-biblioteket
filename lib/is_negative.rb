@@ -7,7 +7,7 @@
 #   is_negative(4)
 #   # => false
 #
-# Returns true if the given nuber is negative and otherwise false.
+# Returns true if the given number is negative and otherwise false.
 
 def is_negative(tal)
     if tal < 0

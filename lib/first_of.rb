@@ -8,6 +8,7 @@
 #   # => 2
 #
 # Returns the first item in the given array.
+
 def first_of(array)
     return array[0]
 end

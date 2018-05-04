@@ -10,7 +10,7 @@
 #   contains_chr("hej", "h")
 #   # => true
 #
-# Returns the true if string and chr match. 
+# Returns true if string and chr match. 
 
 def contains_chr(string,chr)
     i = 0

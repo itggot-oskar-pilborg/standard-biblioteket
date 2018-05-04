@@ -9,6 +9,7 @@
 #   # => [1,2,3,4]
 #
 # Returns the array with the new item.
+
 def append(array,input)
     array << input
     return array

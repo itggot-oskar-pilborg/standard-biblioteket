@@ -9,7 +9,8 @@
 #   between(4,2,8)
 #   # => true
 #
-# Returns the condition of the arguments. 
+# Returns the condition of the arguments.
+ 
 def between(tal, min, max)
     if tal > min && tal < max
         return true
