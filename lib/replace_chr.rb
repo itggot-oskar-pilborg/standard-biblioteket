@@ -11,7 +11,7 @@
 #
 # Returns the changed string
 
-def replace(string, chr1, chr2)
+def replace_chr(string, chr1, chr2)
     i = 0
     output = ""
     while i <= string.length-1
